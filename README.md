@@ -135,3 +135,6 @@ Santiago Del Estero y Tierra Del Fuego tienen 20 ocurrencias cada una. Sin embar
 # Grafico el KPI propuesto por provincia
 <img width="754" alt="Captura de pantalla 2023-11-17 a la(s) 4 21 55 p m" src="https://github.com/teamlider/individual_02/assets/54252072/63e258bb-1ee1-4b7e-9e17-e097076d04ae">
 
+
+# Calculo el porcentaje total de cumplimiento del KPI por provincia
+
