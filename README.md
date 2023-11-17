@@ -59,5 +59,7 @@ reviso la distribucion de los diferentes campos para tener una idea clara de la 
 
 ### Distribución del campo años y del campo provicias.
 
+<img width="848" alt="Captura de pantalla 2023-11-17 a la(s) 3 21 00 p m" src="https://github.com/teamlider/individual_02/assets/54252072/9b9d17d8-ea4a-43d7-9a81-f9277d431ccf">
+
 
 
