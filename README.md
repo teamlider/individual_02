@@ -52,5 +52,12 @@ El conjunto de datos tiene un total de 864 entradas.
 
 <img width="983" alt="Captura de pantalla 2023-11-17 a la(s) 3 12 54 p m" src="https://github.com/teamlider/individual_02/assets/54252072/e0bffdc0-de07-421c-823b-9cf2bf04fd6e">
 
+### Despues de realizar el proceso de limpieza de los dos archivos. 
+### Inicio con el analisis de los campos.
+reviso la distribucion de los diferentes campos para tener una idea clara de la información 
+
+
+### Distribución del campo años y del campo provicias.
+
 
 
