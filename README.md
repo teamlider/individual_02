@@ -92,4 +92,17 @@ Con esta tabla puedo verificar la información de la grafica anterior y corrobor
 
 <img width="661" alt="Captura de pantalla 2023-11-17 a la(s) 3 50 37 p m" src="https://github.com/teamlider/individual_02/assets/54252072/f91a78c9-9d97-4ad1-8dc5-1684ffe70f0f">
 
+## Conclusión del Análisis de Penetración de Internet.
+
+Accesos por Cada 100 Hogares:
+
+Se observa una variabilidad significativa en el número de accesos a Internet por cada 100 hogares en las diferentes provincias, oscilando entre 39.41 y 122.73.
+Nuevo Acceso y KPI (Key Performance Indicator):
+
+Se calculó el Nuevo Acceso, que representa el aumento del 2% en los accesos por cada 100 hogares con respecto a los valores iniciales.
+El KPI, o Índice de Desempeño Clave, se introdujo como una medida para evaluar la efectividad del aumento planificado.
+
+Al revisar el KPI para cada provincia, se puede observar que, en algunos casos, el aumento del 2% en los accesos propuesto inicialmente no se cumple. En estas provincias, el KPI es menor al 2%, indicando que el objetivo de incrementar en un 2% el acceso a Internet por cada 100 hogares no se ha alcanzado completamente.
+
+
 
