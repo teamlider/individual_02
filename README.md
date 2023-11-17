@@ -116,5 +116,7 @@ El conjunto de datos tiene un total de 864 entradas.
 ## posteriormente Inicio el analisis de la distribución de los datos del campo años y provicias.
 <img width="703" alt="Captura de pantalla 2023-11-17 a la(s) 4 07 00 p m" src="https://github.com/teamlider/individual_02/assets/54252072/c453a633-4a3f-478c-9ebd-bc2e16c02d51">
 
+<img width="967" alt="Captura de pantalla 2023-11-17 a la(s) 4 07 19 p m" src="https://github.com/teamlider/individual_02/assets/54252072/820b4af1-eae2-48c2-b2e5-33fdf1cfc437">
+
 
 
