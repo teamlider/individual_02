@@ -80,4 +80,4 @@ El objetivo es visualizar datos específicos de un DataFrame fusionado (merged_d
 
 <img width="717" alt="Captura de pantalla 2023-11-17 a la(s) 3 32 32 p m" src="https://github.com/teamlider/individual_02/assets/54252072/fb9a9709-e5bb-47fa-b78e-050adc3defac">
 
-
+<img width="704" alt="Captura de pantalla 2023-11-17 a la(s) 3 32 50 p m" src="https://github.com/teamlider/individual_02/assets/54252072/11401fd9-39cc-402d-a931-6673dc3ce6ee">
