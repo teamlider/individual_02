@@ -82,3 +82,12 @@ El objetivo es visualizar datos específicos de un DataFrame fusionado (merged_d
 <img width="717" alt="Captura de pantalla 2023-11-17 a la(s) 3 32 32 p m" src="https://github.com/teamlider/individual_02/assets/54252072/fb9a9709-e5bb-47fa-b78e-050adc3defac">
 
 <img width="704" alt="Captura de pantalla 2023-11-17 a la(s) 3 32 50 p m" src="https://github.com/teamlider/individual_02/assets/54252072/11401fd9-39cc-402d-a931-6673dc3ce6ee">
+
+## Análisis y Cálculos de Datos - Trimestres Finales del 2022
+Cálculo de Diferencia Porcentual del KPI
+cálculo la diferencia porcentual entre el tercer y cuarto trimestre del KPI para cada provincia y agrego esta información como una nueva columna llamada 'Diferencia Porcentual'
+Cálculo de Nuevo Acceso y KPI
+cálculo el nuevo acceso y el KPI utilizando las fórmulas proporcionadas. Estos valores se agregan como nuevas columnas al DataFrame.
+Con esta tabla puedo verificar la información de la grafica anterior y corroborrar el resultado final de KPI
+
+
