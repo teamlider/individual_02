@@ -78,4 +78,6 @@ Se seleccionan las columnas relevantes ('Año', 'Trimestre', 'Provincia', 'Acces
 
 El objetivo es visualizar datos específicos de un DataFrame fusionado (merged_df). filtrando y representando gráficamente los nuevos accesos en las provincias durante los dos últimos trimestres del año 2022.
 
+<img width="717" alt="Captura de pantalla 2023-11-17 a la(s) 3 32 32 p m" src="https://github.com/teamlider/individual_02/assets/54252072/fb9a9709-e5bb-47fa-b78e-050adc3defac">
+
 
