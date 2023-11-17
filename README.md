@@ -48,6 +48,7 @@ Total: Número total de conexiones (tipo de dato: int64).
 El conjunto de datos tiene un total de 864 entradas.
 
 ### En el primer conjunto de datos elimino las columnas con datos nulos y transformo el tipo de datos del campo Accesos por cada 100 hogares
+<img width="398" alt="Captura de pantalla 2023-11-17 a la(s) 3 12 44 p m" src="https://github.com/teamlider/individual_02/assets/54252072/0657b28d-8256-413b-ae82-b5b41cfda750">
 
 
 
