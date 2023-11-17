@@ -72,6 +72,7 @@ Cálculo el KPI (Indicador Clave de Rendimiento):
 calculo el KPI utilizando la fórmula proporcionada: KPI = ((Nuevo Acceso - Accesos por cada 100 hogares * 100) / (Accesos por cada 100 hogares * 100)) * 100. Este valor se expresa como un porcentaje y se almacena en la columna 'KPI' del DataFrame.
 Muestro el DataFrame resultante:
 Se seleccionan las columnas relevantes ('Año', 'Trimestre', 'Provincia', 'Accesos por cada 100 hogares', 'Nuevo Acceso', 'KPI') y se muestra el DataFrame resultante.
+<img width="675" alt="Captura de pantalla 2023-11-17 a la(s) 3 27 05 p m" src="https://github.com/teamlider/individual_02/assets/54252072/42b2957e-8bbc-461d-8510-4691ad026178">
 
 
 
