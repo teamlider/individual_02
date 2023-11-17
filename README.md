@@ -126,6 +126,6 @@ El conjunto de datos tiene un total de 864 entradas.
 Santiago Del Estero y Tierra Del Fuego tienen 20 ocurrencias cada una. Sin embargo, se observa una variación en la capitalización de los nombres, donde "Santiago Del Estero" y "Tierra Del Fuego" (con mayúsculas) tienen 20 ocurrencias, mientras que "Santiago del Estero" y "Tierra del Fuego" (en minúsculas) tienen 16 ocurrencias cada una
 
 ###  Estandarizo la capitalización.
- Grafico nuevamente la distribución del campo 'Provincia' para verificar la corrección.
+ ### Grafico nuevamente la distribución del campo 'Provincia' para verificar la corrección.
 <img width="966" alt="Captura de pantalla 2023-11-17 a la(s) 4 14 43 p m" src="https://github.com/teamlider/individual_02/assets/54252072/0bfb87d9-5a12-4477-9732-9656708a242a">
 
