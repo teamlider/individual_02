@@ -114,6 +114,7 @@ El conjunto de datos tiene un total de 864 entradas.
 ## Realizo la transformación del campo 'Accesos TV por suscripción por cada 100 hogares' al tipo de dato float64.
 
 ## posteriormente Inicio el analisis de la distribución de los datos del campo años y provicias.
+<img width="703" alt="Captura de pantalla 2023-11-17 a la(s) 4 07 00 p m" src="https://github.com/teamlider/individual_02/assets/54252072/c453a633-4a3f-478c-9ebd-bc2e16c02d51">
 
 
 
