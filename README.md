@@ -75,6 +75,7 @@ Se seleccionan las columnas relevantes ('Año', 'Trimestre', 'Provincia', 'Acces
 <img width="675" alt="Captura de pantalla 2023-11-17 a la(s) 3 27 05 p m" src="https://github.com/teamlider/individual_02/assets/54252072/42b2957e-8bbc-461d-8510-4691ad026178">
 
 ## Análisis de Datos - Gráficos de Nuevos Accesos en las Provincias (Últimos 2 Trimestres del 2022)
+### Realizo una grafica por provincia.
 
 El objetivo es visualizar datos específicos de un DataFrame fusionado (merged_df). filtrando y representando gráficamente los nuevos accesos en las provincias durante los dos últimos trimestres del año 2022.
 
