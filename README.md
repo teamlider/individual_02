@@ -138,4 +138,7 @@ Santiago Del Estero y Tierra Del Fuego tienen 20 ocurrencias cada una. Sin embar
 
 # Calculo el porcentaje total de cumplimiento del KPI por provincia
 <img width="602" alt="Captura de pantalla 2023-11-17 a la(s) 4 24 30 p m" src="https://github.com/teamlider/individual_02/assets/54252072/9a71ddb3-7b95-4bd9-819a-f53e766ec24e">
+### El análisis, ha determinado que todas las provincias han cumplido con el KPI en un 100%. Este resultado es indicativo de un desempeño sobresaliente en la provisión de servicios de TV por suscripción en el período estudiado.
+
+### La evaluación del cumplimiento del KPI se basó en el cálculo de un porcentaje para cada provincia. Este porcentaje representa la proporción de trimestres en los cuales se cumplió con el KPI con respecto al total de trimestres analizados. todas las provicias sobrepasan el 1.5% .
 
