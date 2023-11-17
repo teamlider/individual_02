@@ -61,5 +61,7 @@ reviso la distribucion de los diferentes campos para tener una idea clara de la 
 
 <img width="848" alt="Captura de pantalla 2023-11-17 a la(s) 3 21 00 p m" src="https://github.com/teamlider/individual_02/assets/54252072/9b9d17d8-ea4a-43d7-9a81-f9277d431ccf">
 
+<img width="1006" alt="Captura de pantalla 2023-11-17 a la(s) 3 21 11 p m" src="https://github.com/teamlider/individual_02/assets/54252072/a82e388f-a66d-4991-9d50-8cb1ca1e5f2e">
+
 
 
