@@ -95,5 +95,8 @@ Con esta tabla puedo verificar la información de la grafica anterior y corrobor
 ## Conclusión del Análisis de Penetración de Internet
 Después de realizar un análisis detallado de la penetración de Internet en diferentes provincias durante el cuarto trimestre de 2022, los resultados revelan que el aumento propuesto del 2% en los accesos por cada 100 hogares no se ha cumplido en ninguna provincia. Este hallazgo se sustenta en la evaluación del KPI (Key Performance Indicator) para cada región, donde el índice resultante es consistentemente menor al 2%.
 
+## KPI (2): aumentar en un 1.5 % el  Cambio en Accesos TV por Suscripción por cada 100 Hogares entre Trimestres por provincia en el ultimo año.
+Con este KPI se pretende evaluar cómo varían los accesos de televisión por suscripción en cada provincia a lo largo del tiempo, específicamente en el último año (2022).
+
 
 
