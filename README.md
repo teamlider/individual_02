@@ -47,6 +47,7 @@ Dial up: Número de conexiones Dial-up (tipo de dato: float64) con 862 valores n
 Total: Número total de conexiones (tipo de dato: int64).
 El conjunto de datos tiene un total de 864 entradas.
 
+### En el primer conjunto de datos elimino las columnas con datos nulos y transformo el tipo de datos del campo Accesos por cada 100 hogares
 
 
 
