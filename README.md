@@ -98,5 +98,18 @@ Después de realizar un análisis detallado de la penetración de Internet en di
 ## KPI (2): aumentar en un 1.5 % el  Cambio en Accesos TV por Suscripción por cada 100 Hogares entre Trimestres por provincia en el ultimo año.
 Con este KPI se pretende evaluar cómo varían los accesos de televisión por suscripción en cada provincia a lo largo del tiempo, específicamente en el último año (2022).
 
+Conjunto de Datos
+El conjunto de datos utilizado en este análisis se encuentra en el archivo Accesos_TV_Suscripcion.csv en el directorio dataset. Este archivo contiene información sobre los accesos a TV por suscripción en varias ubicaciones.
+
+Información del Conjunto de Datos
+El conjunto de datos tiene las siguientes columnas:
+
+Año: Año en el que se recopilaron los datos (tipo de dato: int64).
+Trimestre: Trimestre en el que se recopilaron los datos (tipo de dato: int64).
+Provincia: Nombre de la provincia (tipo de dato: object).
+Accesos TV por suscripción por cada 100 hab: Número de accesos a TV por suscripción por cada 100 habitantes (tipo de dato: float64).
+Accesos TV por suscripción por cada 100 hogares: Número de accesos a TV por suscripción por cada 100 hogares (tipo de dato: object).
+El conjunto de datos tiene un total de 864 entradas.
+
 
 
