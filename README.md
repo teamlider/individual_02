@@ -118,5 +118,5 @@ El conjunto de datos tiene un total de 864 entradas.
 
 <img width="967" alt="Captura de pantalla 2023-11-17 a la(s) 4 07 19 p m" src="https://github.com/teamlider/individual_02/assets/54252072/820b4af1-eae2-48c2-b2e5-33fdf1cfc437">
 
-
+## Verifico las distribución de las provincias 
 
