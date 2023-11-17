@@ -65,19 +65,13 @@ reviso la distribucion de los diferentes campos para tener una idea clara de la 
 
 ### Fusióno los DataFrames:
 
-### realizo un merge de los dos DataFrames (df_p y penetracion_dos) utilizando las columnas 'Año', 'Trimestre' y 'Provincia' como claves de fusión. El resultado se almacena en merged_df.
-
-### Cálculo de Nuevo Acceso:
-
-### calculo un nuevo acceso utilizando la fórmula proporcionada: Nuevo Acceso = (Accesos por cada 100 hogares * 100) * (1 + 0.02). Se multiplica por 100 para convertir el resultado a enteros y se almacena en la columna 'Nuevo Acceso' del DataFrame.
-
-### Cálculo el KPI (Indicador Clave de Rendimiento):
-
-### calculo el KPI utilizando la fórmula proporcionada: KPI = ((Nuevo Acceso - Accesos por cada 100 hogares * 100) / (Accesos por cada 100 hogares * 100)) * 100. Este valor se expresa como un porcentaje y se almacena en la columna 'KPI' del DataFrame.
-
-### Muestro el DataFrame resultante:
-
-### Se seleccionan las columnas relevantes ('Año', 'Trimestre', 'Provincia', 'Accesos por cada 100 hogares', 'Nuevo Acceso', 'KPI') y se muestra el DataFrame resultante.
+realizo un merge de los dos DataFrames (df_p y penetracion_dos) utilizando las columnas 'Año', 'Trimestre' y 'Provincia' como claves de fusión. El resultado se almacena en merged_df.
+cálculo de Nuevo Acceso:
+calculo un nuevo acceso utilizando la fórmula proporcionada: Nuevo Acceso = (Accesos por cada 100 hogares * 100) * (1 + 0.02). Se multiplica por 100 para convertir el resultado a enteros y se almacena en la columna 'Nuevo Acceso' del DataFrame.
+Cálculo el KPI (Indicador Clave de Rendimiento):
+calculo el KPI utilizando la fórmula proporcionada: KPI = ((Nuevo Acceso - Accesos por cada 100 hogares * 100) / (Accesos por cada 100 hogares * 100)) * 100. Este valor se expresa como un porcentaje y se almacena en la columna 'KPI' del DataFrame.
+Muestro el DataFrame resultante:
+Se seleccionan las columnas relevantes ('Año', 'Trimestre', 'Provincia', 'Accesos por cada 100 hogares', 'Nuevo Acceso', 'KPI') y se muestra el DataFrame resultante.
 
 
 
