@@ -90,4 +90,6 @@ Cálculo de Nuevo Acceso y KPI
 cálculo el nuevo acceso y el KPI utilizando las fórmulas proporcionadas. Estos valores se agregan como nuevas columnas al DataFrame.
 Con esta tabla puedo verificar la información de la grafica anterior y corroborrar el resultado final de KPI
 
+<img width="661" alt="Captura de pantalla 2023-11-17 a la(s) 3 50 37 p m" src="https://github.com/teamlider/individual_02/assets/54252072/f91a78c9-9d97-4ad1-8dc5-1684ffe70f0f">
+
 
