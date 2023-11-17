@@ -130,4 +130,5 @@ Santiago Del Estero y Tierra Del Fuego tienen 20 ocurrencias cada una. Sin embar
 <img width="966" alt="Captura de pantalla 2023-11-17 a la(s) 4 14 43 p m" src="https://github.com/teamlider/individual_02/assets/54252072/0bfb87d9-5a12-4477-9732-9656708a242a">
 
 ### # Calculo el KPI (aumento del 1.5%) usando .loc. 
+<img width="1002" alt="Captura de pantalla 2023-11-17 a la(s) 4 19 10 p m" src="https://github.com/teamlider/individual_02/assets/54252072/6204edae-a5a2-4940-a1f3-d3469662efe6">
 
